@@ -11,7 +11,7 @@ Adjust your appearance settings from the tvOS Control Center with ease! (Require
 ## Built With
 
 * [Theos](https://github.com/theos/theos) - The actual compiler and manager of the tweak.
-*[TVControlCenter](https://github.com/lechium/TVControlCenter/) - Add custom tvOS modules to TVSystemMenuService (Control Center for tvOS 13).
+* [TVControlCenter](https://github.com/lechium/TVControlCenter/) - Add custom tvOS modules to TVSystemMenuService (Control Center for tvOS 13).
 
 ## License
 
