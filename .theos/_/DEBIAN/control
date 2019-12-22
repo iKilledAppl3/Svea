@@ -1,0 +1,11 @@
+Package: com.ikilledappl3.svea
+Name: Svea
+Depends: mobilesubstrate, com.nito.tvcontrolcenter, firmware (>=13.0)
+Architecture: appletvos-arm64
+Description: Toggle Dark Mode from the control center!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 112
