@@ -5,7 +5,7 @@ Architecture: appletvos-arm64
 Description: Toggle Dark Mode from the control center!
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
+Depiction: https://ikilledappl3.com/tvrepo/depictions/Svea/Svea.json
 Section: Tweaks
-Version: 1.0-1
-Installed-Size: 112
+Version: 1.0.1-1
+Installed-Size: 88

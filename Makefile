@@ -9,7 +9,7 @@ include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = AppearanceSveaModule
 
-AppearanceSveaModule_FILES = iKASveaDarkModeModule.m
+AppearanceSveaModule_FILES = iKASveaDarkModeModule.mm
 AppearanceSveaModule_INSTALL_PATH = /Library/TVSystemMenuModules
 AppearanceSveaModule_FRAMEWORKS = UIKit
 AppearanceSveaModule_PRIVATE_FRAMEWORKS = TVSystemMenuUI PineBoardServices
